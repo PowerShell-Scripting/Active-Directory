@@ -9,3 +9,9 @@ Mail: michael.seidl@au2mator.com
 
 # Rules
 Will be defined,but start sharing your code and help others
+
+# Other Repositorities
+Master: https://github.com/PowerShell-Scripting
+
+Exchange:   https://github.com/PowerShell-Scripting/Exchange
+Fun:        https://github.com/PowerShell-Scripting/Fun
